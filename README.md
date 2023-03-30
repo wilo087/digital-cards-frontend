@@ -1,5 +1,5 @@
 ## QR Card Generator
-is oriented to the business world, where business cards can be generated from a local database or simply from contacts created in Active Directory.
+Is oriented to the business world, where business cards can be generated from a local database or simply from contacts created in Active Directory.
 
 ## Temporal Dev Info:
 First, run the development server:
@@ -9,6 +9,14 @@ npm run dev
 # or
 yarn dev
 ```
+
+## Stack
+- Node / TypeScript - Apollo / GraphQL
+- Next / React - MUI
+- DynamoDB or Postgres
+- AWS / Amplify - Lambda
+
+## Getting started with Next.js
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
