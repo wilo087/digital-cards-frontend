@@ -14,7 +14,7 @@ yarn dev
 - Node / TypeScript - Apollo / GraphQL
 - Next / React - MUI
 - DynamoDB or Postgres
-- AWS / Amplify - Lambda
+- AWS / Amplify - Lambda / CodePipeline
 
 ## Getting started with Next.js
 
