@@ -15,6 +15,8 @@ yarn dev
 - Next / React - MUI
 - DynamoDB or Postgres
 - AWS / Amplify - Lambda / CodePipeline
+- Cypress / Jest
+- Storybook
 
 ## Getting started with Next.js
 
