@@ -1,4 +1,5 @@
 import '@styles/globals.css'
+import { roboto } from '@styles/fonts'
 import React from 'react'
 
 export const metadata = {
@@ -16,8 +17,9 @@ export default function RootLayout ({ children }: Props): React.ReactElement {
       <head>
         <meta name='viewport' content='initial-scale=1, width=device-width' />
       </head>
-
-      <body>{children}</body>
+      <body className={roboto.className}>
+        {children}
+      </body>
     </html>
   )
 }
